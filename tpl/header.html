@@ -1,0 +1,15 @@
+<div class="header" ng-controller="headerController">
+  <div class="layout">
+    <div class="left">
+      <div class="title">{{header.title}}</div>
+      <div class="describe">{{header.descibe}}</div>
+    </div>
+    <div class="right">
+      <ul>
+        <li ng-repeat="menu in header.menus">
+          <a href="{{menu.url}}">{{menu.name}}</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
