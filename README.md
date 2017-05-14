@@ -23,4 +23,4 @@ Build By Visual Studio Code
 
 ##### License
 
-Code in sheep project is licensed under the GPL
+Code in mirrors.scau.edu.cn project is licensed under the GPL
