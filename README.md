@@ -14,7 +14,7 @@ npm install
 
 [demo](https://flyher.github.io/mirrors.scau.edu.cn/)
 
-[friend link](for https://github.com/SCAULUG/mirrors.scau.edu.cn)
+[friend link](https://github.com/SCAULUG/mirrors.scau.edu.cn)
 
 
 ##### Tools
