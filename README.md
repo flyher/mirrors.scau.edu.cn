@@ -1,5 +1,7 @@
 # mirrors.scau.edu.cn
-https://github.com/SCAULUG/mirrors.scau.edu.cn
 
+AngularJS渲染，Gulp打包编译，兼容现代浏览器，横竖屏响应式
 
-基于AngularJS渲染，Gulp打包编译，兼容现代浏览器，支持横竖屏响应式布局
+[demo](https://flyher.github.io/mirrors.scau.edu.cn/)
+
+[friend link](for https://github.com/SCAULUG/mirrors.scau.edu.cn)
